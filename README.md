@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Karol Baran @kbarn411, currently student at Gdańsk University of Technology (PG) 
-- 👀 I’m interested in data science, machine learning and bioinformatics
-- 🌱 I’m currently learning Deep Learning algorithms and Natural Language Processing
-- 💞️ I’m looking to collaborate on interesting projects about machine learning
+- 👀 I’m interested in chemoinformatics, bioinformatics and machine learning
+- 🌱 I’m currently learning about deep neural networks
 
 <!---
 kbarn411/kbarn411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
