@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karol Baran @kbarn411, currently student at Gdańsk University of Technology (PG) 
+- 👋 Hi, I’m Karol Baran @kbarn411, currently PhD student at Gdańsk University of Technology (PG) 
 - 👀 I’m interested in chemoinformatics, bioinformatics and machine learning
 - 🌱 I’m currently learning about deep neural networks
 
